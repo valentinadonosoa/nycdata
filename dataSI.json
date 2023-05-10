@@ -1,0 +1,62 @@
+[
+    {
+        "the_geom": "POINT (-74.1448917169114 40.62301715618512 ",
+        "CITY": "Staten Island",
+        "NAME": "I.S. 51 - Staten Island",
+        "ADDRESS": "20 Houston Street",
+        "ZIP_CODE": 10302,
+        "BOROCODE": 5,
+        "STATE": "NY",
+        "ACCESSIBLE": "Y",
+        "BIN": 5107210,
+        "BBL": 5014780500
+      },
+      {
+        "the_geom": "POINT (-74.08185476145192 40.645380544708885 ",
+        "CITY": "Staten Island",
+        "NAME": "Curtis HS - S. I.",
+        "ADDRESS": "105 Hamilton Avenue",
+        "ZIP_CODE": 10301,
+        "BOROCODE": 5,
+        "STATE": "NY",
+        "ACCESSIBLE": "Y",
+        "BIN": 5106483,
+        "BBL": 5000220001
+      },
+      {
+        "the_geom": "POINT (-74.10434506993518 40.60899601014516 ",
+        "CITY": "Staten Island",
+        "NAME": "Michael J. Petrides",
+        "ADDRESS": "715 Ocean Terrace",
+        "ZIP_CODE": 10301,
+        "BOROCODE": 5,
+        "STATE": "NY",
+        "ACCESSIBLE": "Y",
+        "BIN": 5017080,
+        "BBL": 5006830302
+      },
+      {
+        "the_geom": "POINT (-74.15897931892695 40.58138899050915 ",
+        "CITY": "Staten Island",
+        "NAME": "Jerome Parker Campus - S.I.",
+        "ADDRESS": "100 Essex Drive",
+        "ZIP_CODE": 10314,
+        "BOROCODE": 5,
+        "STATE": "NY",
+        "ACCESSIBLE": "Y",
+        "BIN": 5149609,
+        "BBL": 5024500320
+      },
+      {
+        "the_geom": "POINT (-74.21396005256327 40.541989803454754 ",
+        "CITY": "Staten Island",
+        "NAME": "P.S. 56 - Staten Island",
+        "ADDRESS": "250 Kramer Avenue",
+        "ZIP_CODE": 10309,
+        "BOROCODE": 5,
+        "STATE": "NY",
+        "ACCESSIBLE": "Y",
+        "BIN": 5128148,
+        "BBL": 5070440001
+      }
+]

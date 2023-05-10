@@ -1,0 +1,122 @@
+[
+    {
+      "the_geom": "POINT (-73.9663563303682 40.759299630226494 ",
+      "CITY": "Manhattan",
+      "NAME": "Midtown East Campus - Manhattan",
+      "ADDRESS": "233 E 56 Street",
+      "ZIP_CODE": 10022,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1088892,
+      "BBL": 1013300013
+    },
+    {
+      "the_geom": "POINT (-73.99360201070182 40.716238370835626 ",
+      "CITY": "Manhattan",
+      "NAME": "I.S. 131 - Manhattan",
+      "ADDRESS": "100 Hester Street",
+      "ZIP_CODE": 10002,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1082489,
+      "BBL": 1003010003
+    },
+    {
+      "the_geom": "POINT (-73.9357073749906 40.83935802569442 ",
+      "CITY": "Manhattan",
+      "NAME": "I.S. 90 - Manhattan",
+      "ADDRESS": "21 Jumel Place",
+      "ZIP_CODE": 10023,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1076741,
+      "BBL": 1021120058
+    },
+    {
+      "the_geom": "POINT (-73.95409668855494 40.802598483589236 ",
+      "CITY": "Manhattan",
+      "NAME": "I.S. 88 - Manhattan",
+      "ADDRESS": "215 W 114 Street",
+      "ZIP_CODE": 10026,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1055204,
+      "BBL": 1018300019
+    },
+        {
+      "the_geom": "POINT (-73.9446461562353 40.82999707805985 ",
+      "CITY": "Manhattan",
+      "NAME": "P.S./I.S. 210 - Manhattan",
+      "ADDRESS": "501-503 W 152 Street",
+      "ZIP_CODE": 10031,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1087824,
+      "BBL": 1020840129
+    },
+    {
+      "the_geom": "POINT (-73.98095024373315 40.74643139547331 ",
+      "CITY": "Manhattan",
+      "NAME": "Norman Thomas HS (ECF  - Manhattan",
+      "ADDRESS": "111 E 33 Street",
+      "ZIP_CODE": 10016,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1087537,
+      "BBL": 1008897501
+    },
+    {
+      "the_geom": "POINT (-73.9740069021562 40.785926191269716 ",
+      "CITY": "Manhattan",
+      "NAME": "Louis D. Brandeis HS - Manhattan",
+      "ADDRESS": "145 W 84 Street",
+      "ZIP_CODE": 10024,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1032128,
+      "BBL": 1012150001
+    },
+    {
+      "the_geom": "POINT (-73.94581431348983 40.81471159765893 ",
+      "CITY": "Manhattan",
+      "NAME": "P.S. 92 - Manhattan",
+      "ADDRESS": "222 W 134 Street",
+      "ZIP_CODE": 10030,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1058808,
+      "BBL": 1019390011
+    },
+    {
+      "the_geom": "POINT (-73.98563038662456 40.774899959763296 ",
+      "CITY": "Manhattan",
+      "NAME": "Martin Luther King, Jr. HS - M",
+      "ADDRESS": "122 Amsterdam Avenue",
+      "ZIP_CODE": 10023,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1030343,
+      "BBL": 1011570025
+    },
+    {
+      "the_geom": "POINT (-73.93359889247564 40.85317165423485 ",
+      "CITY": "Manhattan",
+      "NAME": "P.S. 48 - Manhattan",
+      "ADDRESS": "4360-78 Broadway",
+      "ZIP_CODE": 10033,
+      "BOROCODE": 1,
+      "STATE": "NY",
+      "ACCESSIBLE": "Y",
+      "BIN": 1076752,
+      "BBL": 1021670029
+    }
+]
