@@ -8,7 +8,7 @@ var ctx = c.getContext("2d");
 let rainDrops = [];
 let elements = document.getElementsByClassName("raindrop");
 let length = 50;
-let speed = 15;
+let speed = 20;
 
 let angle = 90 * Math.PI / 180;
 let angleSin = Math.sin(angle);
